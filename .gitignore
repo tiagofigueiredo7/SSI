@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# Pychache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cliente info
+# TODO
